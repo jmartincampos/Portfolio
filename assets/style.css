@@ -1,11 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Trebuchet MS','Gill Sans', 'Gill Sans MT', Calibri, sans-serif, sans-serif;
     margin: 0;
     padding: 0;
   }
   
   header {
-    background-color: #333;
+    background-color: rgb(30, 46, 193);
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -35,10 +35,10 @@ body {
   }
   
   footer {
-    background-color: #333;
+    background-color: rgb(30, 46, 193);
     color: #fff;
     text-align: center;
-    padding: 20px;
+    padding: 0px;
     position: fixed;
     bottom: 0;
     width: 100%;
