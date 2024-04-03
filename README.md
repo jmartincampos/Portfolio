@@ -26,3 +26,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 Github deployed site:
 https://jmartincampos.github.io/Portfolio/#
 Github repo:
+https://github.com/jmartincampos/Portfolio.git
