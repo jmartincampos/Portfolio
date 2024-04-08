@@ -2,6 +2,7 @@ body {
     font-family: 'Trebuchet MS','Gill Sans', 'Gill Sans MT', Calibri, sans-serif, sans-serif;
     margin: 0;
     padding: 0;
+    
   }
   
   header {
@@ -36,29 +37,5 @@ body {
   
   footer {
     background-color: rgb(30, 46, 193);
-    color: #fff;
-    text-align: center;
-    padding: 0px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    padding: 10px;
   }
-  
-  /* Add your styles here */
-@keyframes slideIn {
-    from {
-      opacity: 0;
-      transform: translateY(-50px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  
-  .bio-animation {
-    animation: slideIn 0.5s ease forwards;
-    opacity: 0;
-  }
-  
-  
